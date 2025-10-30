@@ -46,13 +46,13 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=DiegoVilla27&show_icons=true&locale=en&theme=tokyonight"
+          src="https://github-readme-stats.vercel.app/api?username=danielflozano&show_icons=true&locale=en&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com/?user=DiegoVilla27&theme=tokyonight"
+          src="https://streak-stats.demolab.com/?user=&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
